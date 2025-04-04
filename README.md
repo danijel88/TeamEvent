@@ -1,7 +1,7 @@
 # Usage
 * First need in appsettings.json for prod env to set connection string `"Default": "server=DESKTOP-DURJP2A\\SQLEXPRESS; database=events;user id=sa;password=sqladmin;TrustServerCertificate=true"`
 *  for development to use `appsettings.Development.json`
-* After that from Visual Studio Package Manager need to run command: `update-database -p teamevents.server`
+* After that from Visual Studio Package Manager need to run command: `update-database -p teamevent.server`
 or from Visual code `dotnet ef database update`
 * In Frontend project find `vite.config.ts` there is variable tenantId which is used for api header.
 * Also there is configuration for server and ports
