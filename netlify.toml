@@ -1,4 +1,4 @@
 [build]
   base = "teamevent.client"
   command = "npm run build"
-  publish = "tramevent.client/build"
+  publish = "teamevent.client/build"
