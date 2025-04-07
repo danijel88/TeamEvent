@@ -1,9 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EventServer.Models;
+using EventServer.Persistence;
+using EventServer.Persistence.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using Moq;
-using TeamEvent.Server.Domain;
-using TeamEvent.Server.Infrastructure;
-using TeamEvent.Server.Models;
-using TeamEvent.Server.Persistence;
 using TeamEvent.Server.Persistence.Interfaces;
 
 namespace TestProject1

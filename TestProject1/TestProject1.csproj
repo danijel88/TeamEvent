@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TeamEvent.Server\TeamEvent.Server.csproj" />
+    <ProjectReference Include="..\EventServer\EventServer.csproj" />
   </ItemGroup>
 
   <ItemGroup>
