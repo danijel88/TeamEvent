@@ -6,7 +6,7 @@ A full-stack web application built as part of a technical assessment. The app en
 
 ## 🌐 Live URLs
 
-- **Frontend (React + TypeScript)**: https://your-frontend.vercel.app
+- **Frontend (React + TypeScript)**: https://teamevents21.netlify.app/
 - **Backend (ASP.NET Core API)**: https://your-backend.azurewebsites.net
 
 ---
